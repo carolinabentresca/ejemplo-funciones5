@@ -1,3 +1,3 @@
-# Ejemplo-Switch
+# Ejemplo-switch
 ### Proyecto Java / Java Application
-### Ejemplo básico de switch, en una función
+## Ejemplo básico de una función (switch)
